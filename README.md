@@ -27,7 +27,7 @@ Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.c
 
 ## Week 1 - Learn Python
 - EdX https://www.edx.org/course/introduction-python-data-science-2
-- Siraj Raval https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU 
+- Learn Python Programming Masterclass https://www.udemy.com/python-the-complete-python-developer-course/?ranMID=39197&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-BJ7Tr1pqLitBSxlGi85elA&LSNPUBID=TnL5HPStwNw 
 
 ## Week 2 - Statistics & Probability
 - KhanAcademy https://www.khanacademy.org/math/statistics-probability
